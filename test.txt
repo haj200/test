@@ -1,1 +1,2 @@
 J'aime l'informatique;
+J''aime le text mining
